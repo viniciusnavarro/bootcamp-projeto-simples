@@ -24,4 +24,4 @@ Configurar uma pipeline de Integração Contínua (CI) com GitHub Actions para u
 - Como automatizar builds com Maven
 - Como verificar logs de execução de pipelines
 
-> Esse lab não contém testes automatizados, apenas a etapa de build.
+> Esse lab é apenas um exemplo simples utilizado na introdução a metodologias DevOps.
